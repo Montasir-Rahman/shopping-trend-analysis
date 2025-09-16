@@ -10,23 +10,17 @@ This repository showcases a complete workflow, from initial data exploration to 
 
 ## 📊 Power BI Dashboard Preview
 
-## 📊 Power BI Dashboard Preview
-
 The final output of this project is a comprehensive, four-page interactive report built in Power BI. Each page is designed to answer a specific set of business questions, providing a holistic view of customer behavior and business performance. Below are snapshots of each dashboard page.
 
 | Customer Snapshot                                                                                                   | Product & Category Deep Dive                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| ***![Customer Snapshot](customer_snapshot.png)*** | ***(placeholder: ADD PRODUCT ANALYSIS IMAGE)*** |
+| ***![Customer Snapshot](customer_snapshot.png)*** | ***![Product & Category Deep Dive](product_and_category.png)*** |
 | *An overview of customer demographics, including breakdowns by age group and gender, and their associated purchasing habits.* | *Analysis of product popularity, average review ratings by category, and a matrix showing seasonal sales trends.* |
-| **Geographic & Shipping Analysis** | **Financial & Promotions Performance** |
-| ***(placeholder: ADD GEOGRAPHIC ANALYSIS IMAGE)*** | ***(placeholder: ADD FINANCIAL PERFORMANCE IMAGE)*** |
+| **Geographical Analysis** | **Financial Performance** |
+| ***![Geographical Analysis](geographical_analaysis.png)*** | ***![Geographical Analysis](financial_performance.png)*** |
 | *A breakdown of the top customer locations and an analysis of preferred shipping methods.* | *Key KPIs on the effectiveness of subscriptions and discounts, along with insights into the most popular payment methods.* |
 
 ---
-### **How to add your images:**
-1.  Take a screenshot of each of the four pages of your dashboard.
-2.  Upload the four image files (e.g., `customer_snapshot.png`, `product_analysis.png`, etc.) to your GitHub repository.
-3.  Replace each `(placeholder: ...)` line above with the markdown code for your image, like this: `![Customer Snapshot](customer_snapshot.png)`
 
 ## 📂 Repository Structure
 
@@ -78,9 +72,8 @@ The cleaned and structured data was connected to Power BI to build the final rep
 * **Interactive Dashboard:** A four-page interactive report was designed to explore the data from different perspectives:
     1.  **Customer Snapshot:** An overview of customer demographics and habits.
     2.  **Product & Category Deep Dive:** Analysis of product popularity, ratings, and seasonality.
-    3.  **Geographic & Shipping Analysis:** Insights into regional markets and shipping preferences.
-    4.  **Financial & Promotions Performance:** KPIs on payment methods and the effectiveness of subscriptions and discounts.
-* **Mobile View:** A custom, scrollable mobile layout was designed for each page, ensuring the report is accessible and user-friendly on any device.
+    3.  **Geographical Analysis:** Insights into regional markets and shipping preferences.
+    4.  **Financial Performance:** KPIs on payment methods and the effectiveness of subscriptions and discounts.
 
 ---
 
