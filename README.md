@@ -10,12 +10,23 @@ This repository showcases a complete workflow, from initial data exploration to 
 
 ## 📊 Power BI Dashboard Preview
 
-Below is a snapshot of the main "Customer Snapshot" page from the final Power BI report. The full, interactive dashboard provides deep dives into product, geographic, and financial performance.
+## 📊 Power BI Dashboard Preview
 
-***(placeholder: ADD YOUR DASHBOARD IMAGE HERE)***
-*To add your image, upload it to the repo and replace the line above with: `![Dashboard Preview](your_image_name.png)`*
+The final output of this project is a comprehensive, four-page interactive report built in Power BI. Each page is designed to answer a specific set of business questions, providing a holistic view of customer behavior and business performance. Below are snapshots of each dashboard page.
+
+| Customer Snapshot                                                                                                   | Product & Category Deep Dive                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| ***![Customer Snapshot](Customer_Snapshot.png)*** | ***(placeholder: ADD PRODUCT ANALYSIS IMAGE)*** |
+| *An overview of customer demographics, including breakdowns by age group and gender, and their associated purchasing habits.* | *Analysis of product popularity, average review ratings by category, and a matrix showing seasonal sales trends.* |
+| **Geographic & Shipping Analysis** | **Financial & Promotions Performance** |
+| ***(placeholder: ADD GEOGRAPHIC ANALYSIS IMAGE)*** | ***(placeholder: ADD FINANCIAL PERFORMANCE IMAGE)*** |
+| *A breakdown of the top customer locations and an analysis of preferred shipping methods.* | *Key KPIs on the effectiveness of subscriptions and discounts, along with insights into the most popular payment methods.* |
 
 ---
+### **How to add your images:**
+1.  Take a screenshot of each of the four pages of your dashboard.
+2.  Upload the four image files (e.g., `customer_snapshot.png`, `product_analysis.png`, etc.) to your GitHub repository.
+3.  Replace each `(placeholder: ...)` line above with the markdown code for your image, like this: `![Customer Snapshot](customer_snapshot.png)`
 
 ## 📂 Repository Structure
 
