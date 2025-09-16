@@ -1,0 +1,21 @@
+SELECT
+	COUNT(*) FILTER (WHERE customer IS NULL) AS cust_null,
+	COUNT(*) FILTER (WHERE age IS NULL) AS age_null,
+	COUNT(*) FILTER (WHERE gender IS NULL) AS gender_null,
+	COUNT(*) FILTER (WHERE item_purchased IS NULL) AS item_purch_null,
+	COUNT(*) FILTER (WHERE category IS NULL) AS cat_null,
+	COUNT(*) FILTER (WHERE purchase_amount_usd IS NULL) AS purch_amount_null,
+	COUNT(*) FILTER (WHERE location IS NULL) AS loc_null,
+	COUNT(*) FILTER (WHERE size IS NULL) AS size_null,
+	COUNT(*) FILTER (WHERE color IS NULL) AS color_null,
+	COUNT(*) FILTER (WHERE season IS NULL) AS season_null,
+	COUNT(*) FILTER (WHERE review_rating IS NULL) AS rating_null,
+	COUNT(*) FILTER (WHERE subscription_status IS NULL) AS subs_stat_null,
+	COUNT(*) FILTER (WHERE payment_method IS NULL) AS pay_meth_null,
+	COUNT(*) FILTER (WHERE shipping_type IS NULL) AS sh_type_null,
+	COUNT(*) FILTER (WHERE discount_applied IS NULL) AS dis_app_null,
+	COUNT(*) FILTER (WHERE promo_code_used IS NULL) AS pc_used_null,
+	COUNT(*) FILTER (WHERE previous_purchases IS NULL) AS prev_purch_null,
+	COUNT(*) FILTER (WHERE preferred_payment_method IS NULL) AS pref_pay_meth_null,
+	COUNT(*) FILTER (WHERE frequency_of_purchases IS NULL) AS freq_purch_null
+FROM shopping_trend;
