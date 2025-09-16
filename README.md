@@ -17,7 +17,7 @@ The final output of this project is a comprehensive, four-page interactive repor
 | ***![Customer Snapshot](customer_snapshot.png)*** | ***![Product & Category Deep Dive](product_and_category.png)*** |
 | *An overview of customer demographics, including breakdowns by age group and gender, and their associated purchasing habits.* | *Analysis of product popularity, average review ratings by category, and a matrix showing seasonal sales trends.* |
 | **Geographical Analysis** | **Financial Performance** |
-| ***![Geographical Analysis](geographical_analaysis.png)*** | ***![Geographical Analysis](financial_performance.png)*** |
+| ***![Geographical Analysis](geographical_analysis.png)*** | ***![Geographical Analysis](financial_performance.png)*** |
 | *A breakdown of the top customer locations and an analysis of preferred shipping methods.* | *Key KPIs on the effectiveness of subscriptions and discounts, along with insights into the most popular payment methods.* |
 
 ---
