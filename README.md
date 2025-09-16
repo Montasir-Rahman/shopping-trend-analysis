@@ -16,7 +16,7 @@ The final output of this project is a comprehensive, four-page interactive repor
 
 | Customer Snapshot                                                                                                   | Product & Category Deep Dive                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| ***![Customer Snapshot](Customer_Snapshot.png)*** | ***(placeholder: ADD PRODUCT ANALYSIS IMAGE)*** |
+| ***![Customer Snapshot](customer_snapshot.png)*** | ***(placeholder: ADD PRODUCT ANALYSIS IMAGE)*** |
 | *An overview of customer demographics, including breakdowns by age group and gender, and their associated purchasing habits.* | *Analysis of product popularity, average review ratings by category, and a matrix showing seasonal sales trends.* |
 | **Geographic & Shipping Analysis** | **Financial & Promotions Performance** |
 | ***(placeholder: ADD GEOGRAPHIC ANALYSIS IMAGE)*** | ***(placeholder: ADD FINANCIAL PERFORMANCE IMAGE)*** |
